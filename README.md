@@ -1,3 +1,3 @@
 # Steinberg Cubase
 
-Utility scaffolding.
+Placeholder README (LLM render failed).
